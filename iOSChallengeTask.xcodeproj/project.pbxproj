@@ -12,6 +12,24 @@
 		3424957221889610003206F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3424957021889610003206F9 /* Main.storyboard */; };
 		3424957421889612003206F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3424957321889612003206F9 /* Assets.xcassets */; };
 		3424957721889612003206F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3424957521889612003206F9 /* LaunchScreen.storyboard */; };
+		34288CFF218B73B900F4BBD3 /* SF-Compact-Text-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 34288CFE218B73B900F4BBD3 /* SF-Compact-Text-Medium.otf */; };
+		345650AF218B49A300749DC7 /* QRViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345650AE218B49A300749DC7 /* QRViewController.swift */; };
+		345650B1218B4BCF00749DC7 /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345650B0218B4BCF00749DC7 /* TabViewController.swift */; };
+		348953582189EEC9008F3891 /* MarketBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348953572189EEC9008F3891 /* MarketBaseViewController.swift */; };
+		3489535A2189EF18008F3891 /* MarketRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348953592189EF18008F3891 /* MarketRootViewController.swift */; };
+		3489535C2189EF77008F3891 /* MoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3489535B2189EF77008F3891 /* MoneyViewController.swift */; };
+		3489535F2189F567008F3891 /* SimpleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3489535D2189F567008F3891 /* SimpleCell.swift */; };
+		348953602189F567008F3891 /* SimpleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3489535E2189F567008F3891 /* SimpleCell.xib */; };
+		34BDF8F92189AF0A0029F659 /* Currency_Fair.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8E92189AF090029F659 /* Currency_Fair.png */; };
+		34BDF8FA2189AF0A0029F659 /* Currency_Solutions.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8EA2189AF090029F659 /* Currency_Solutions.png */; };
+		34BDF8FD2189AF0A0029F659 /* Search.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8ED2189AF090029F659 /* Search.png */; };
+		34BDF8FE2189AF0A0029F659 /* Transferwise.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8EE2189AF090029F659 /* Transferwise.png */; };
+		34BDF8FF2189AF0A0029F659 /* QR_code_select.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8EF2189AF090029F659 /* QR_code_select.png */; };
+		34BDF9052189AF0A0029F659 /* XendPay.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8F52189AF090029F659 /* XendPay.png */; };
+		34BDF9062189AF0A0029F659 /* QR_code_deselect.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8F62189AF090029F659 /* QR_code_deselect.png */; };
+		34BDF9072189AF0A0029F659 /* Money_Transfer_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = 34BDF8F72189AF090029F659 /* Money_Transfer_btn.png */; };
+		34DD6D312188A9CA00A69B77 /* ChildExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DD6D302188A9CA00A69B77 /* ChildExampleViewController.swift */; };
+		665F9DD10506B6C230E76AB8 /* Pods_iOSChallengeTask.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F6CEEC98B54024460F368A52 /* Pods_iOSChallengeTask.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +40,26 @@
 		3424957321889612003206F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3424957621889612003206F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3424957821889612003206F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34288CFE218B73B900F4BBD3 /* SF-Compact-Text-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Compact-Text-Medium.otf"; sourceTree = "<group>"; };
+		345650AE218B49A300749DC7 /* QRViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRViewController.swift; sourceTree = "<group>"; };
+		345650B0218B4BCF00749DC7 /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		348953572189EEC9008F3891 /* MarketBaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketBaseViewController.swift; sourceTree = "<group>"; };
+		348953592189EF18008F3891 /* MarketRootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarketRootViewController.swift; sourceTree = "<group>"; };
+		3489535B2189EF77008F3891 /* MoneyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyViewController.swift; sourceTree = "<group>"; };
+		3489535D2189F567008F3891 /* SimpleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCell.swift; sourceTree = "<group>"; };
+		3489535E2189F567008F3891 /* SimpleCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SimpleCell.xib; sourceTree = "<group>"; };
+		34BDF8E92189AF090029F659 /* Currency_Fair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Currency_Fair.png; sourceTree = "<group>"; };
+		34BDF8EA2189AF090029F659 /* Currency_Solutions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Currency_Solutions.png; sourceTree = "<group>"; };
+		34BDF8ED2189AF090029F659 /* Search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Search.png; sourceTree = "<group>"; };
+		34BDF8EE2189AF090029F659 /* Transferwise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Transferwise.png; sourceTree = "<group>"; };
+		34BDF8EF2189AF090029F659 /* QR_code_select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QR_code_select.png; sourceTree = "<group>"; };
+		34BDF8F52189AF090029F659 /* XendPay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XendPay.png; sourceTree = "<group>"; };
+		34BDF8F62189AF090029F659 /* QR_code_deselect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QR_code_deselect.png; sourceTree = "<group>"; };
+		34BDF8F72189AF090029F659 /* Money_Transfer_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Money_Transfer_btn.png; sourceTree = "<group>"; };
+		34DD6D302188A9CA00A69B77 /* ChildExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildExampleViewController.swift; sourceTree = "<group>"; };
+		9D12B1895D9EA3BDFA0556DA /* Pods-iOSChallengeTask.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSChallengeTask.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iOSChallengeTask/Pods-iOSChallengeTask.debug.xcconfig"; sourceTree = "<group>"; };
+		C3359E37401E0597715B9C92 /* Pods-iOSChallengeTask.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSChallengeTask.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOSChallengeTask/Pods-iOSChallengeTask.release.xcconfig"; sourceTree = "<group>"; };
+		F6CEEC98B54024460F368A52 /* Pods_iOSChallengeTask.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOSChallengeTask.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +67,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				665F9DD10506B6C230E76AB8 /* Pods_iOSChallengeTask.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3318FA22E19B16F77AA6E5E0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9D12B1895D9EA3BDFA0556DA /* Pods-iOSChallengeTask.debug.xcconfig */,
+				C3359E37401E0597715B9C92 /* Pods-iOSChallengeTask.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		3424956021889610003206F9 = {
 			isa = PBXGroup;
 			children = (
 				3424956B21889610003206F9 /* iOSChallengeTask */,
 				3424956A21889610003206F9 /* Products */,
+				3318FA22E19B16F77AA6E5E0 /* Pods */,
+				618B25AA3F306229197D192F /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +104,63 @@
 		3424956B21889610003206F9 /* iOSChallengeTask */ = {
 			isa = PBXGroup;
 			children = (
+				348953502189CE06008F3891 /* DetailsView */,
+				34DD6D2D2188A99800A69B77 /* ChildControllers */,
+				3424957E218896CC003206F9 /* Img */,
 				3424956C21889610003206F9 /* AppDelegate.swift */,
 				3424956E21889610003206F9 /* ViewController.swift */,
 				3424957021889610003206F9 /* Main.storyboard */,
 				3424957321889612003206F9 /* Assets.xcassets */,
 				3424957521889612003206F9 /* LaunchScreen.storyboard */,
 				3424957821889612003206F9 /* Info.plist */,
+				348953572189EEC9008F3891 /* MarketBaseViewController.swift */,
+				348953592189EF18008F3891 /* MarketRootViewController.swift */,
+				345650AE218B49A300749DC7 /* QRViewController.swift */,
+				345650B0218B4BCF00749DC7 /* TabViewController.swift */,
 			);
 			path = iOSChallengeTask;
+			sourceTree = "<group>";
+		};
+		3424957E218896CC003206F9 /* Img */ = {
+			isa = PBXGroup;
+			children = (
+				34288CFE218B73B900F4BBD3 /* SF-Compact-Text-Medium.otf */,
+				34BDF8E92189AF090029F659 /* Currency_Fair.png */,
+				34BDF8EA2189AF090029F659 /* Currency_Solutions.png */,
+				34BDF8F72189AF090029F659 /* Money_Transfer_btn.png */,
+				34BDF8F62189AF090029F659 /* QR_code_deselect.png */,
+				34BDF8EF2189AF090029F659 /* QR_code_select.png */,
+				34BDF8ED2189AF090029F659 /* Search.png */,
+				34BDF8EE2189AF090029F659 /* Transferwise.png */,
+				34BDF8F52189AF090029F659 /* XendPay.png */,
+			);
+			path = Img;
+			sourceTree = "<group>";
+		};
+		348953502189CE06008F3891 /* DetailsView */ = {
+			isa = PBXGroup;
+			children = (
+				3489535D2189F567008F3891 /* SimpleCell.swift */,
+				3489535E2189F567008F3891 /* SimpleCell.xib */,
+			);
+			path = DetailsView;
+			sourceTree = "<group>";
+		};
+		34DD6D2D2188A99800A69B77 /* ChildControllers */ = {
+			isa = PBXGroup;
+			children = (
+				34DD6D302188A9CA00A69B77 /* ChildExampleViewController.swift */,
+				3489535B2189EF77008F3891 /* MoneyViewController.swift */,
+			);
+			path = ChildControllers;
+			sourceTree = "<group>";
+		};
+		618B25AA3F306229197D192F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F6CEEC98B54024460F368A52 /* Pods_iOSChallengeTask.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +170,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3424957B21889612003206F9 /* Build configuration list for PBXNativeTarget "iOSChallengeTask" */;
 			buildPhases = (
+				A954F0B3ED181EF70F4A978B /* [CP] Check Pods Manifest.lock */,
 				3424956521889610003206F9 /* Sources */,
 				3424956621889610003206F9 /* Frameworks */,
 				3424956721889610003206F9 /* Resources */,
+				2D50708283C375D118A8B5D5 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,21 +223,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34BDF8F92189AF0A0029F659 /* Currency_Fair.png in Resources */,
+				34BDF9052189AF0A0029F659 /* XendPay.png in Resources */,
 				3424957721889612003206F9 /* LaunchScreen.storyboard in Resources */,
 				3424957421889612003206F9 /* Assets.xcassets in Resources */,
+				34BDF8FD2189AF0A0029F659 /* Search.png in Resources */,
+				34288CFF218B73B900F4BBD3 /* SF-Compact-Text-Medium.otf in Resources */,
 				3424957221889610003206F9 /* Main.storyboard in Resources */,
+				34BDF8FE2189AF0A0029F659 /* Transferwise.png in Resources */,
+				348953602189F567008F3891 /* SimpleCell.xib in Resources */,
+				34BDF9072189AF0A0029F659 /* Money_Transfer_btn.png in Resources */,
+				34BDF9062189AF0A0029F659 /* QR_code_deselect.png in Resources */,
+				34BDF8FA2189AF0A0029F659 /* Currency_Solutions.png in Resources */,
+				34BDF8FF2189AF0A0029F659 /* QR_code_select.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2D50708283C375D118A8B5D5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-iOSChallengeTask/Pods-iOSChallengeTask-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/XLPagerTabStrip.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-iOSChallengeTask/Pods-iOSChallengeTask-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A954F0B3ED181EF70F4A978B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-iOSChallengeTask-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3424956521889610003206F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3489535A2189EF18008F3891 /* MarketRootViewController.swift in Sources */,
 				3424956F21889610003206F9 /* ViewController.swift in Sources */,
+				3489535F2189F567008F3891 /* SimpleCell.swift in Sources */,
+				345650AF218B49A300749DC7 /* QRViewController.swift in Sources */,
 				3424956D21889610003206F9 /* AppDelegate.swift in Sources */,
+				3489535C2189EF77008F3891 /* MoneyViewController.swift in Sources */,
+				345650B1218B4BCF00749DC7 /* TabViewController.swift in Sources */,
+				34DD6D312188A9CA00A69B77 /* ChildExampleViewController.swift in Sources */,
+				348953582189EEC9008F3891 /* MarketBaseViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,11 +437,13 @@
 		};
 		3424957C21889612003206F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D12B1895D9EA3BDFA0556DA /* Pods-iOSChallengeTask.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CN7NQ9EM64;
 				INFOPLIST_FILE = iOSChallengeTask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -298,11 +457,13 @@
 		};
 		3424957D21889612003206F9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C3359E37401E0597715B9C92 /* Pods-iOSChallengeTask.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CN7NQ9EM64;
 				INFOPLIST_FILE = iOSChallengeTask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
